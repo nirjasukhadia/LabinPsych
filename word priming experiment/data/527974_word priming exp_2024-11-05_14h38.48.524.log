@@ -1,0 +1,6 @@
+30.5527 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+32.3509 	WARNING 	t of last frame was 20.50ms (=1/48)
+32.3733 	WARNING 	t of last frame was 22.44ms (=1/44)
+32.3952 	WARNING 	t of last frame was 21.86ms (=1/45)
+32.4177 	WARNING 	t of last frame was 22.48ms (=1/44)
+32.4385 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
